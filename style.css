@@ -1,0 +1,125 @@
+header{
+
+    width: 100%;
+    height: 15%;
+    background-color: #facc16;
+    display: flex;
+}
+
+header div{
+
+    background-color: #e9b308;
+    width: 25%;
+    height: 60%;
+    border-radius: 15px;
+    display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 25px;
+}
+
+.p2{
+
+    margin-left: auto;
+
+}
+
+
+header div p{
+
+    margin: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 18%;
+}
+
+.hdi{
+
+margin-left: 25%;
+width: 15%;
+height: 15%;
+
+}
+
+.hdi2{
+
+    margin-left: 10%;
+    width: 15%;
+    height: 15%;
+    
+    }
+
+#rf{
+    text-align: center;
+    margin: auto;
+}
+
+#dd{
+    margin-left: auto;
+}
+
+.main{
+
+    width: 100%;
+    height: 756px;
+    overflow: scroll;
+    font-size: 40px;
+    margin-left: 8px;
+}
+
+.main img{
+
+    width: 400px;
+    height: 400px;
+
+}
+
+.son{
+
+    width: 100%;
+    height: 200%;
+}
+
+
+.behind{
+
+    width: 100%;
+    display: flex;
+}
+
+.text{
+    margin-left: 4%;
+}
+
+.text p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+body{
+    margin: 0 0 0 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.under{
+
+    width: 100%;
+    height: 15%;
+    background-color: #facc16;
+    text-align: center;
+}
+
+.under td{
+    width: 25%;
+    border: 3px solid black;
+}
+
+.under table{
+    border-collapse: collapse;
+}
+
+.under img{
+
+ width: 25%;
+
+}
